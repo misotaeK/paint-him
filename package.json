@@ -1,0 +1,13 @@
+{
+  "name": "paint-him",
+  "description": "Real-time face painting in the browser with MediaPipe and Three.js",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "vite build" },
+  "dependencies": {
+    "@mediapipe/tasks-vision": "^0.10.14",
+    "three": "^0.170.0"
+  },
+  "devDependencies": { "vite": "^5.4.0" }
+}
