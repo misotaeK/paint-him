@@ -4,6 +4,10 @@ Paint on your face in real time, right in the browser. Draw on a flat face map a
 
 *Türkçe: Tarayıcıda gerçek zamanlı yüz boyama. Sağdaki yüz haritasına çiz, çizim webcam görüntüsündeki yüzüne oturur.*
 
+<p align="center"><img src="docs/screenshot-panel.png" alt="Paint Him control panel: face map with a panda template, tools, layers" width="360"></p>
+
+*The control panel next to the webcam view: face map, tools, layers and extras. Shown with the Panda template, a Blush layer and a star.*
+
 ## How it works
 
 - **Face tracking:** [MediaPipe Face Landmarker](https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker) finds 468 landmarks on your face every frame.
